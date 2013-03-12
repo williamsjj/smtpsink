@@ -1,5 +1,5 @@
 # smtpsink - SMTP Sink Server #
-(c)2012 DigiTar, All Rights Reserved
+(c)2013 DigiTar, All Rights Reserved
 
 Simple SMTP server that will listen on the spec'd port and stuff messages into text files in the spec'd directory. Useful as a sink for functional tests on other SMTP servers/clients.
 
